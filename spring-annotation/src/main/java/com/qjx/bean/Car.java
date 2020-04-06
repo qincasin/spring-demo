@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
  * Created by qincasin on 2020/3/27.
  *
  */
+@Component
 public class Car {
     public Car() {
         System.out.println("car constructor....");
