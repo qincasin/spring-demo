@@ -15,11 +15,17 @@ public class Cat implements DisposableBean, InitializingBean {
 
     @Override
     public void destroy() throws Exception {
+        Integer integer = Integer.valueOf(0);
         System.out.println("cat destroy");
     }
 
     @Override
     public void afterPropertiesSet() throws Exception {
         System.out.println("cat afterPropertiesSet ");
+    }
+
+    public static void main(String[] args) {
+        Integer integer = Integer.valueOf(0);
+        System.out.println(integer);
     }
 }
