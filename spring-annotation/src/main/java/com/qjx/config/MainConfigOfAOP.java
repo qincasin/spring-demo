@@ -40,7 +40,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  *     ->AspectJAwareAdvisorAutoProxyCreator
  *      ->AbstractAdvisorAutoProxyCreator
  *       ->!!AbstractAutoProxyCreator
- *          implements SmartInstantiationAwareBeanPostProcessor, BeanFactoryAware
+ *          implements SmartInstantiationAwareBeanPostProcessor, BeanFactoryAware !!!
  *        关注后置处理器(在bean初始化完成前后做事情)、自动装配 BeanFactory
  *  由后往前分析：
  *      AbstractAutoProxyCreator
