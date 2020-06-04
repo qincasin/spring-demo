@@ -1,7 +1,7 @@
 package com.qjx.framework.ioc;
 
-import com.qjx.frameword.ioc.core.JsonApplicationContext;
 import com.qjx.framework.ioc.entity.Robot;
+import com.qjx.frameword.ioc.core.JsonApplicationContext;
 
 /**
  * Created by qincasin on 2020/3/24.

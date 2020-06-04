@@ -2,9 +2,6 @@ package com.qjx.config;
 
 import com.qjx.bean.Person;
 import org.springframework.context.annotation.*;
-import org.springframework.core.type.filter.TypeFilter;
-import org.springframework.stereotype.Controller;
-import org.springframework.stereotype.Service;
 
 /**
  * Created by qincasin on 2020/3/25.

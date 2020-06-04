@@ -6,4 +6,5 @@
 
 spring-demo.iml
 
-target
+/target/
+

@@ -2,7 +2,6 @@ package com.qjx.test;
 
 import com.qjx.po.Test1;
 import com.qjx.po.Test2;
-import com.qjx.po.TestProxy;
 
 import java.util.ArrayList;
 import java.util.Collection;

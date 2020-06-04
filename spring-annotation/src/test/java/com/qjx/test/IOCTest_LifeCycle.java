@@ -1,6 +1,5 @@
 package com.qjx.test;
 
-import com.qjx.bean.Car;
 import com.qjx.config.MainConfigOfLifeCycle;
 import org.junit.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

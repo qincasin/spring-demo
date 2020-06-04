@@ -2,7 +2,6 @@ package com.qjx.config;
 
 import com.qjx.bean.Car;
 import com.qjx.bean.Color;
-import com.qjx.bean.Person;
 import com.qjx.dao.BookDao;
 import org.springframework.context.annotation.*;
 

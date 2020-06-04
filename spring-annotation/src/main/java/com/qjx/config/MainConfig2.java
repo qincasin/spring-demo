@@ -1,10 +1,13 @@
 package com.qjx.config;
 
-import com.qjx.bean.*;
 import com.qjx.condition.LinuxCondition;
 import com.qjx.condition.MacCondition;
 import com.qjx.condition.MyImportBeanDefinitionRegistry;
 import com.qjx.condition.MyImportSelector;
+import com.qjx.bean.Color;
+import com.qjx.bean.ColorFactoryBean;
+import com.qjx.bean.Person;
+import com.qjx.bean.Red;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.*;
 

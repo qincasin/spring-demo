@@ -1,9 +1,7 @@
 package com.qjx.bean;
 
 import lombok.Getter;
-import lombok.Setter;
 import lombok.ToString;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**

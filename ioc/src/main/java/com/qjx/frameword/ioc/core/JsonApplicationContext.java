@@ -1,8 +1,8 @@
 package com.qjx.frameword.ioc.core;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.qjx.frameword.ioc.bean.BeanDefinition;
 import com.qjx.frameword.ioc.utils.JsonUtils;
+import com.qjx.frameword.ioc.bean.BeanDefinition;
 
 import java.io.InputStream;
 import java.util.List;
