@@ -30,6 +30,7 @@
         <module>spring-annotation</module>
         <module>kafka</module>
         <module>spring-tx</module>
+        <module>spring-ext</module>
     </modules>
 
     <dependencies>
