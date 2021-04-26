@@ -21,7 +21,7 @@
         <jackson-databind.version>2.10.3</jackson-databind.version>
         <cglib.version>3.2.5</cglib.version>
         <jackson.version>2.10.3</jackson.version>
-        <common.io.version>2.6</common.io.version>
+        <common.io.version>2.7</common.io.version>
         <common-lang3.version>3.7</common-lang3.version>
     </properties>
     <modules>
