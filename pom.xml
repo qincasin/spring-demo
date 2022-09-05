@@ -18,7 +18,7 @@
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
         <junit-vintage.version>${junit.version}.2</junit-vintage.version>
         <sping-test-junit5.version>1.0.2</sping-test-junit5.version>
-        <jackson-databind.version>2.10.3</jackson-databind.version>
+        <jackson-databind.version>2.12.6.1</jackson-databind.version>
         <cglib.version>3.2.5</cglib.version>
         <jackson.version>2.10.3</jackson.version>
         <common.io.version>2.6</common.io.version>
